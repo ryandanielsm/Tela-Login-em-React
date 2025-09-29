@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://ryandanielsm.github.io/Tela-Login-em-React/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
